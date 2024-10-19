@@ -1,2 +1,2 @@
-Idk how to get the units to get promotions
-It won't work help ;-;
+Idk how to get the units to get promotions.
+Idk it won't work help ;-;
