@@ -1,0 +1,157 @@
+[
+	{
+		"name": "Kingdom of pencil",
+		"leaderName": "Graphite the great",
+		"adjective": ["Pencil"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"declaringWar": "Let me draw our border a little bit bigger...",
+		"attacked": "We may look easy to break, but we will always get sharp again!",
+		"defeated": "We have become dull from our ambition. Congrats on your victory",
+		"introduction": "Hello, what you're seeing is just the sketch of what our empire will be",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "My troops need to shrapen themselves now.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [107,107,107],
+		"innerColor": [255,182,5],
+		"uniqueName": "Border draw",
+		"uniqueText": "Increase border expanison rate. Half the maintenance cost for [roads] and [railroads]",
+		"unique": ["[-25]% Culture cost of natural border growth [in all cities]","[-50]% maintenance on road & railroads"],
+		"cities": ["The lead","Hex body","Small eraser","Cursive","Chicken handwriting","Sharpening station","Mechancial valley","Color pencils"]
+	},
+	{
+		"name": "Eraser empire",
+		"leaderName": "Sir Deletor",
+		"adjective": ["Eraser"],
+		"preferredVictoryType": "Domination",
+		
+		"declaringWar": "You shall be wiped off the map",
+		"attacked": "You cannot erase us, for we are the erasers",
+		"defeated": "*Sir Deletor is not present. He has already been used up*",
+		"introduction": "Hello, we are looking for areas to erase",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Your empire deserved to not be erased. For now..",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [107,107,107],
+		"innerColor": [219,183,187],
+		"uniqueName": "Off the map!",
+		"uniqueText": "All newly trained Melee units in capital receive the [Besiege] promotion during a Golden Age",
+		"unique": ["All newly-trained [Melee] units [in capital] receive the [Besiege] promotion <during a Golden Age>"],
+		"cities": ["Rounded edges","Pink city","White city","Black city","Watermelon scented","Stab hole","Minion shaped","Pencil accessory"]
+	},
+	{
+		"name": "Ruler Empire",
+		"leaderName": "Centi Meter",
+		"adjective": ["Ruler"],
+		"preferredVictoryType": "Domination",
+		
+		"declaringWar": "*Ruler smacking noises from afar. It keeps approaching.*",
+		"attacked": "How dare you attack me! Prepare for some ruler smacking on your-",
+		"defeated": "The ruler has become the subject now.",
+		"introduction": "We are strict people who follow strict rules. Are youu ready to strictly become our ally?",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "This strict line shall be our border.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [59,59,59],
+		"innerColor": [222,184,135],
+		"uniqueName": "Strict dicipline",
+		"uniqueText": "All units gain [Shock I] promotion. +20% flank attack bonus",
+		"unique": ["[Land] units gain the [Shock I] promotion","[+20]% to Flank Attack bonuses"],
+		"cities": ["1cm","2cm","3cm","4cm","5cm","6cm","7cm","8cm","9cm","10cm","11cm","12cm","13cm","14cm","15cm","16cm","17cm","18cm","19cm","20cm"]
+	},
+	{
+		"name": "Sharpener Republic",
+		"leaderName": "Stella Sharpen",
+		"adjective": ["Sharpener"],
+		"preferredVictoryType": "Scientific",
+		
+		"declaringWar": "Your people does not deserve a dull headed leader like you",
+		"attacked": "We are here sharpened and prepared for war",
+		"defeated": "We have become dulled ourselves. We deserve this defeat",
+		"introduction": "Welcome to our nation. Do you want to sharpen your mind?",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Phew. That was kinda dull, wasn't it?",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [106,107,110],
+		"innerColor": [173,172,168],
+		"uniqueName": "Sharpened minds",
+		"uniqueText": "Gain 1 extra yield from every specialists. Units gains 20 HP when healing on sharpening stations",
+		"unique": ["[+1 Gold] from every [Merchant]","[+1 Production] from every [Engineer]","[+1 Science]from every [Scientist]","[+1 Culture] from every [Artist]","[20] HP when healing <in [Sharpening station] tiles>"],
+		"cities": ["Sharp","Hand-cranked","Prisms","Cylindricals","Automatic sharpener","Bigger hole","Lead breaker"]
+	},
+	{
+		"name": "Pen island",
+		"leaderName": "Old Quill",
+		"adjective": ["Pen"],
+		"preferredVictoryType": "Cultural",
+		
+		"declaringWar": "Your defeat has been written in the ancient texts!",
+		"attacked": "You're asking for a pointless war",
+		"defeated": "I should have expected it. My loss was written in the ancient texts, after all.",
+		"introduction": "We are the islanders of the Pen. We will write down your arrival so that future generations may see the beginning of our history.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "There. I signed it. Happy now?",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [242,235,219],
+		"innerColor": [13,20,36],
+		"uniqueName": "Caligraphy",
+		"uniqueText": "+1 [Science] and [Culture] from culture and science buildings, +2 [Faith] from faith buildings. Unit gains double movement speed and extra heal on Ink smudge",
+		"unique": ["[+1 Science, +1 Culture] from all [Science] buildings","[+1 Science, +1 Culture] from all [Culture] buildings","[+2 Faith] from all [Faith] buildings","[Land] units gain the [Ink people] promotion","[15] HP when healing <in [Ink smudge] tiles>"],
+		"cities": ["Swan's gift","The nib","Ballpoint","Inkwell","Red marks","Black marks","Gel pens","Colorful ones","Clickers"]
+	}		
+]
