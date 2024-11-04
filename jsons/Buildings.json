@@ -1,0 +1,34 @@
+[
+	{
+		"name": "Drawing books",
+		"replaces": "Library",
+		"uniqueTo": "Kingdom of pencil",
+		"specialistSlots": {"Artist": 1},
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		"culture": 1,
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "Rubber wall",
+		"replaces": "Walls",
+		"cost": 65,
+		"uniqueTo": "Eraser empire",
+		"cityStrength": 6,
+		"cityHealth": 100,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Cuttingworks",
+		"replaces": "Workshop",
+		"uniqueTo": "Sharpener Republic",
+		"maintenance": 2,
+		"production": 3,
+		"specialistSlots": {"Engineer": 2},
+		"hurryCostModifier": 25,
+		"uniques":["[+10]% Production when constructing [land units] units [in this city]","[+20]% Production when constructing [All] buildings [in this city]"],
+		"requiredTech": "Metal Casting"
+	}
+]
