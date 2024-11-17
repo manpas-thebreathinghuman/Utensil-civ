@@ -120,7 +120,7 @@
 		"innerColor": [173,172,168],
 		"uniqueName": "Sharpened minds",
 		"uniqueText": "Gain 1 extra yield from every specialists. Units gains 20 HP when healing on sharpening stations",
-		"unique": ["[+1 Gold] from every [Merchant]","[+1 Production] from every [Engineer]","[+1 Science]from every [Scientist]","[+1 Culture] from every [Artist]","[20] HP when healing <in [Sharpening station] tiles>"],
+		"unique": ["[+1 Gold] from every [Merchant]","[+1 Production] from every [Engineer]","[+1 Science] from every [Scientist]","[+1 Culture] from every [Artist]","[20] HP when healing <in [Sharpening station] tiles>"],
 		"cities": ["Sharp","Hand-cranked","Prisms","Cylindricals","Automatic sharpener","Bigger hole","Lead breaker"]
 	},
 	{
