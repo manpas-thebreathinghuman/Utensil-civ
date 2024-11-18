@@ -26,7 +26,6 @@
 		"outerColor": [107,107,107],
 		"innerColor": [255,182,5],
 		"uniqueName": "Border draw",
-		"uniqueText": "Increase border expanison rate. Half the maintenance cost for [roads] and [railroads]",
 		"uniques": ["[-25]% Culture cost of natural border growth [in all cities]","[-50]% maintenance on road & railroads"],
 		"cities": ["The lead","Hex body","Small eraser","Cursive","Chicken handwriting","Sharpening station","Mechancial valley","Color pencils"]
 	},
@@ -57,7 +56,6 @@
 		"outerColor": [107,107,107],
 		"innerColor": [219,183,187],
 		"uniqueName": "Off the map!",
-		"uniqueText": "All newly trained Melee units in capital receive the [Besiege] promotion during a Golden Age",
 		"uniques": ["All newly-trained [Melee] units [in capital] receive the [Besiege] promotion <during a Golden Age>"],
 		"cities": ["Rounded edges","Pink city","White city","Black city","Watermelon scented","Stab hole","Minion shaped","Pencil accessory"]
 	},
@@ -89,7 +87,7 @@
 		"innerColor": [222,184,135],
 		"uniqueName": "Strict dicipline",
 		"uniqueText": "All units gain [Shock I] promotion. +20% flank attack bonus",
-		"uniques": ["[Land] units gain the [Shock I] promotion","[+20]% to Flank Attack bonuses"],
+		"uniques": ["[Sword] units gain the [Shock I] promotion","[+20]% to Flank Attack bonuses"],
 		"cities": ["1cm","2cm","3cm","4cm","5cm","6cm","7cm","8cm","9cm","10cm","11cm","12cm","13cm","14cm","15cm","16cm","17cm","18cm","19cm","20cm"]
 	},
 	{

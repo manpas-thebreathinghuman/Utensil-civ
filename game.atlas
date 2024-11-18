@@ -4,44 +4,16 @@ size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Breeders
-  rotate: false
-  xy: 112, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Holodeck
-  rotate: false
-  xy: 220, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Aliens
-  rotate: false
-  xy: 4, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Phasers
-  rotate: false
-  xy: 328, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 NationIcons/Kingdom of pencil
   rotate: false
-  xy: 427,0
+  xy: 0,0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Eraser empire
   rotate: false
-  xy: 1, 107
+  xy: 94, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -84,6 +56,55 @@ UnitIcons/Phasers
 BuildingIcons/Rubber wall
   rotate: false
   xy: 205,0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Pencil fighter
+  rotate: false
+  xy: 300, 102
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Great Ruler
+  rotate: false
+  xy: 415, 105
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Precise builder
+  rotate: false
+  xy: 1, 208
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Rubber wall
+  rotate: false
+  xy: 105, 196
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Sharpening station
+  rotate: false
+  xy: 310,3
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Ballpoint
+  rotate: false
+  xy: 198, 190
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Ink smudge
+  rotate: false
+  xy: 306, 206
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
